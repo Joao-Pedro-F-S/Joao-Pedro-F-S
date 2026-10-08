@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" fill="none" role="img" aria-label="João Pedro França Silva — Desenvolvedor Front-end">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" fill="none" role="img" aria-label="João Pedro França Silva — Desenvolvedor Full Stack">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="880" y2="300" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0A0F14"/>
@@ -53,11 +53,11 @@
     <text x="40" y="140" class="sans line l2" font-size="46" font-weight="700" fill="#F8FAFC" letter-spacing="-1">João Pedro França</text>
     <rect x="40" y="156" width="120" height="4" rx="2" fill="url(#accent)" class="line l2"/>
 
-    <text x="40" y="192" class="sans line l3" font-size="19" fill="#CBD5E1">Desenvolvedor Front-end <tspan fill="#475569">·</tspan> Web &amp; Mobile</text>
+    <text x="40" y="192" class="sans line l3" font-size="19" fill="#CBD5E1">Desenvolvedor Full Stack <tspan fill="#475569">·</tspan> Web &amp; Mobile</text>
 
     <g class="mono line l4" font-size="14">
       <text x="40" y="232" fill="#94A3B8"><tspan fill="#38BDF8">◉</tspan> Brasil</text>
-      <text x="160" y="232" fill="#94A3B8"><tspan fill="#34D399">&lt;/&gt;</tspan> Next.js · React Native · TypeScript · Node</text>
+      <text x="160" y="232" fill="#94A3B8"><tspan fill="#34D399">&lt;/&gt;</tspan> Next.js · React Native · Node · Python · PHP</text>
     </g>
 
     <text x="40" y="268" class="mono line l5" font-size="15"><tspan fill="#34D399">$</tspan><tspan fill="#94A3B8"> transformando ideias em interfaces </tspan><tspan fill="#34D399" class="cursor">▋</tspan></text>
