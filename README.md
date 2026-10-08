@@ -52,12 +52,6 @@ const joaoPedro = {
 
 ### 📈 Atividade
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joao-Pedro-F-S/Joao-Pedro-F-S/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joao-Pedro-F-S/Joao-Pedro-F-S/output/snake.svg"/>
-  <img alt="Contribuições do GitHub em forma de cobrinha" src="https://raw.githubusercontent.com/Joao-Pedro-F-S/Joao-Pedro-F-S/output/snake-dark.svg"/>
-</picture>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Joao-Pedro-F-S&locale=pt_BR&hide_border=true&background=0A0F14&ring=34D399&fire=38BDF8&currStreakLabel=34D399&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&stroke=1E293B" alt="Sequência de contribuições" width="100%"/>
 </div>
