@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="João Pedro França Silva — Desenvolvedor Front-end"/>
+<img src="./assets/header.svg" width="100%" alt="João Pedro França Silva — Desenvolvedor Full Stack"/>
 
 </div>
 
@@ -8,13 +8,14 @@
 
 ### Olá! 👋
 
-Sou **João Pedro**, desenvolvedor front-end. Construo sites com **Next.js** e apps mobile com **React Native**, sempre buscando interfaces limpas, rápidas e responsivas.
+Sou **João Pedro**, desenvolvedor full stack. No front construo sites com **Next.js** e apps mobile com **React Native**; no back trabalho com **Node.js**, **Python** e **PHP**.
 
 ```ts
 const joaoPedro = {
-  foco:       "Front-end com React, Next.js e TypeScript",
-  mobile:     "Apps com React Native e Expo",
-  estudando:  ["Node.js no back-end", "Banco de dados"],
+  front:      ["React", "Next.js", "TypeScript"],
+  mobile:     ["React Native", "Expo"],
+  back:       ["Node.js", "Python", "PHP"],
+  estudando:  "Banco de dados e APIs",
   disponivel: true,
 };
 ```
@@ -45,7 +46,7 @@ const joaoPedro = {
 ### 🧰 Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,git,github,vscode&theme=dark" alt="Stack"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,python,php,git,github,vscode&theme=dark" alt="Stack"/>
 </p>
 
 <br/>
