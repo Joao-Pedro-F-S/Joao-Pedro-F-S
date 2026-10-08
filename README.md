@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="João Pedro França Silva — Desenvolvedor Full Stack"/>
+<img src="./assets/header-fullstack.svg" width="100%" alt="João Pedro França Silva — Desenvolvedor Full Stack"/>
 
 </div>
 
