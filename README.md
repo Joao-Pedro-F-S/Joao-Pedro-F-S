@@ -8,11 +8,6 @@
   </a>
 </p>
 
-<!-- Contato -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Joao-Pedro-F-S&style=for-the-badge&color=7F00FF&label=VISITAS" />
-</p>
-
 ---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre mim
